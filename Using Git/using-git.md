@@ -8,4 +8,5 @@
 `git pull`
 `git checkout`
 
-These changes were made on github!
+These changes are only on my/branch
+
