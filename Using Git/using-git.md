@@ -7,3 +7,5 @@
 `git push`
 `git pull`
 `git checkout`
+
+These changes were made on github!
